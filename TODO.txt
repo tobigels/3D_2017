@@ -1,0 +1,7 @@
+Materialien für einzelne Koomponenten machen:
+	-pillars = -betonartig
+	-rope = -dunnkler matter stahl
+	-connectors = leicht glänzender stahl
+	-signage = Textur mit Wegbeschreibung: "zu block A"
+	-piping = ähnlich wie rope
+	-clock = siehe bilder
